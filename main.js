@@ -1,1 +1,3 @@
-let a = 10
+let a = "akash";
+let b = "hasan";
+
