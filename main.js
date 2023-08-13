@@ -6,3 +6,5 @@ console.log(a);
 
 const oneName = "Mohosin Hasan ";
 const twoName = "Akash";
+
+const combineFullName = `${oneName} ${twoName}`;
