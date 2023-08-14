@@ -6,4 +6,5 @@ console.log(combineFullName);
 
 const combineName = (a, b) => {
   return `I love ${a} and ${b}`;
+  console.log(`what is the result 🫙`);
 };
