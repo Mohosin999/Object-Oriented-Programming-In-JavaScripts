@@ -3,3 +3,5 @@ const twoName = "Akash";
 
 const combineFullName = `${oneName} ${twoName}`;
 console.log(combineFullName);
+
+const combineName = () => {};
