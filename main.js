@@ -4,4 +4,6 @@ const twoName = "Akash";
 const combineFullName = `${oneName} ${twoName}`;
 console.log(combineFullName);
 
-const combineName = () => {};
+const combineName = (a, b) => {
+  `I love ${a} and ${b}`;
+};
