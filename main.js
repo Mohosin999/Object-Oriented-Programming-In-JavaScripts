@@ -5,5 +5,5 @@ const combineFullName = `${oneName} ${twoName}`;
 console.log(combineFullName);
 
 const combineName = (a, b) => {
-  `I love ${a} and ${b}`;
+  return `I love ${a} and ${b}`;
 };
