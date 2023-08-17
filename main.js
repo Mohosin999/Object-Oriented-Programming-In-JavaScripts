@@ -1,1 +1,1 @@
-const article = `Hello world`;
+const article = `Hello world!`;
