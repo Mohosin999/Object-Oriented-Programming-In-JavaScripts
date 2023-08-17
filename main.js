@@ -1,1 +1,1 @@
-const article = `What is this ediet?`;
+const article = `Hello world`;
